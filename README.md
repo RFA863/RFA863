@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rafi Fajrul Ariyadi</h1>
+<h1 align="center">Hi 👋, I'm Rafi Fajrul Ariyadi</h1>![Uploading bgHero.png…]()
+
 <h3 align="center">Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rfa863&label=Profile%20views&color=0e75b6&style=flat" alt="rfa863" /> </p>
