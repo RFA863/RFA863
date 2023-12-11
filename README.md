@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rafi Fajrul Ariyadi</h1>![Uploading bgHero.png…]()
+<h1 align="center">Hi 👋, I'm Rafi Fajrul Ariyadi</h1>
 
 <h3 align="center">Software Developer</h3>
 
