@@ -2,9 +2,9 @@
 
 <h3 align="center">Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rfa863&label=Profile%20views&color=0e75b6&style=flat" alt="rfa863" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rfa863&label=Profile%20views&color=0e75b6&style=flat" alt="rfa863" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rfa863" alt="rfa863" /></a> </p>
+
 
 - 🌱 I’m currently learning **ReactJs,NextJs, ExpressJs**
 
