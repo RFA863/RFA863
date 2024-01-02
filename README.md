@@ -20,13 +20,14 @@ ___
 
 - 📫 How to reach me **rafifajrul77@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18pSTqvvsFcRoGkK8ZQor1-a4zIM0TjDu/view?usp=sharing](https://drive.google.com/file/d/18pSTqvvsFcRoGkK8ZQor1-a4zIM0TjDu/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1OGvKbc7EBdPkPFTRXOCcCMXHEQW1yCYs/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am genius**
 ___
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rafi-fajrul-65a484226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rafi-fajrul-65a484226" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rafi-fajrul-ariyadi-65a484226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rafi-fajrul-65a484226" height="30" width="40" /></a>
 <a href="https://instagram.com/rafifajrul8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rafii_863" height="30" width="40" /></a>
 <a href="https://medium.com/@rafifajrulariyadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rafifajrulariyadi" height="30" width="40" /></a>
 </p>
