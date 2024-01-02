@@ -20,7 +20,7 @@ ___
 
 - 📫 How to reach me **rafifajrul77@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OGvKbc7EBdPkPFTRXOCcCMXHEQW1yCYs/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1OGvKbc7EBdPkPFTRXOCcCMXHEQW1yCYs/view?usp=sharing
 
 - ⚡ Fun fact **I think I am genius**
 ___
