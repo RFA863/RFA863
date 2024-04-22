@@ -12,7 +12,7 @@ Beyond coding, I find joy in sports, music, and gaming, creating a balanced life
 
 ___
 
-- 🌱 I’m currently learning **VueJs,NuxtJs, Laravel**
+- 🌱 I’m currently learning **VueJs, NuxtJs, Laravel**
 
 - 👨‍💻 All of my projects are available at [https://rafi-fajrul.vercel.app/](https://rafi-fajrul.vercel.app/)
 
