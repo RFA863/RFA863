@@ -25,6 +25,9 @@ ___
 - ⚡ Fun fact **I think I am genius**
 ___
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1663108e-987c-4c55-81be-fb3494ee33a8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+___
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rafi-fajrul-ariyadi-65a484226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rafi-fajrul-65a484226" height="30" width="40" /></a>
