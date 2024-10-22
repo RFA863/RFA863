@@ -2,6 +2,12 @@
 
 <h3 align="center">Software Developer</h3>
 
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rfa863&label=Profile%20views&color=0e75b6&style=flat" alt="rfa863" /> </p>
 
 ___
