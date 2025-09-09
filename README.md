@@ -14,15 +14,10 @@ ___
 
 - 🌱 I’m currently learning **VueJs, NuxtJs, Laravel**
 
-- 👨‍💻 All of my projects are available at [https://rafi-fajrul.vercel.app/](https://rafi-fajrul.vercel.app/)
-
 - 📝 I regularly write articles on [https://medium.com/@rafifajrulariyadi](https://medium.com/@rafifajrulariyadi)
 
 - 📫 How to reach me **rafifajrul77@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1OGvKbc7EBdPkPFTRXOCcCMXHEQW1yCYs/view?usp=sharing
-
-- ⚡ Fun fact **I think I am genius**
 ___
 
 ### ✍️ Random Dev Quote
