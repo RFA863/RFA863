@@ -6,7 +6,7 @@
 
 ___
 <p align="justify">
-Hello there! I'm Rafi Fajrul Ariyadi, a Software Engineering student at Universitas Pendidikan Indonesi. Currently, I'm honing my skills as a software developer . My passion lies in crafting innovative solutions, with a keen interest in Software Security and Data Science. I approach software development through the lens of Object-Oriented Programming, emphasizing clean and modular code. My development goals revolve around bringing ideas to life, simplifying tasks, trying new things, and continually enriching my programming skills.
+Hello there! I'm Rafi Fajrul Ariyadi, a Software Engineering student at Universitas Pendidikan Indonesi. Currently, I'm honing my skills as a software developer. My passion lies in crafting innovative solutions, with a keen interest in Software Security and Data Science. I approach software development through the lens of Object-Oriented Programming, emphasizing clean and modular code. My development goals revolve around bringing ideas to life, simplifying tasks, trying new things, and continually enriching my programming skills.
 Beyond coding, I find joy in sports, music, and gaming, creating a balanced lifestyle. Always eager to explore and learn, I believe in pushing boundaries and challenging myself.
 </p>
 
